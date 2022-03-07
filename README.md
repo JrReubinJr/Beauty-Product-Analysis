@@ -1,5 +1,4 @@
-# Beauty-Product-Analysis
-Beauty Product Analysis
+# Beauty Product Analysis
 
 A small analysis of a ecommerce beauty store's products to find:
 1. Which products drive repeated customers
